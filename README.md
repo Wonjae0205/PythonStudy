@@ -1,5 +1,5 @@
-# PythonStudy
-## 1. Python (Kaggle, 3/28/2022 - 4/1/2022)
+# Python Study Materials List
+### 1. Python (Kaggle, 3/28/2022 - 4/1/2022)
 <!-- Source -->
 <button> 
   <p>
